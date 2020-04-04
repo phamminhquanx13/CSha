@@ -1,0 +1,13 @@
+D:\Cs\Shell-Sort\bin\Debug\netcoreapp5.0\Shell-Sort.exe
+D:\Cs\Shell-Sort\bin\Debug\netcoreapp5.0\Shell-Sort.deps.json
+D:\Cs\Shell-Sort\bin\Debug\netcoreapp5.0\Shell-Sort.runtimeconfig.json
+D:\Cs\Shell-Sort\bin\Debug\netcoreapp5.0\Shell-Sort.runtimeconfig.dev.json
+D:\Cs\Shell-Sort\bin\Debug\netcoreapp5.0\Shell-Sort.dll
+D:\Cs\Shell-Sort\bin\Debug\netcoreapp5.0\Shell-Sort.pdb
+D:\Cs\Shell-Sort\obj\Debug\netcoreapp5.0\Shell-Sort.csprojAssemblyReference.cache
+D:\Cs\Shell-Sort\obj\Debug\netcoreapp5.0\Shell-Sort.AssemblyInfoInputs.cache
+D:\Cs\Shell-Sort\obj\Debug\netcoreapp5.0\Shell-Sort.AssemblyInfo.cs
+D:\Cs\Shell-Sort\obj\Debug\netcoreapp5.0\Shell-Sort.csproj.CoreCompileInputs.cache
+D:\Cs\Shell-Sort\obj\Debug\netcoreapp5.0\Shell-Sort.dll
+D:\Cs\Shell-Sort\obj\Debug\netcoreapp5.0\Shell-Sort.pdb
+D:\Cs\Shell-Sort\obj\Debug\netcoreapp5.0\Shell-Sort.genruntimeconfig.cache

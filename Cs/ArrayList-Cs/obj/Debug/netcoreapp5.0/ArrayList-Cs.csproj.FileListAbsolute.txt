@@ -1,0 +1,13 @@
+D:\Cs\ArrayList-Cs\bin\Debug\netcoreapp5.0\ArrayList-Cs.exe
+D:\Cs\ArrayList-Cs\bin\Debug\netcoreapp5.0\ArrayList-Cs.deps.json
+D:\Cs\ArrayList-Cs\bin\Debug\netcoreapp5.0\ArrayList-Cs.runtimeconfig.json
+D:\Cs\ArrayList-Cs\bin\Debug\netcoreapp5.0\ArrayList-Cs.runtimeconfig.dev.json
+D:\Cs\ArrayList-Cs\bin\Debug\netcoreapp5.0\ArrayList-Cs.dll
+D:\Cs\ArrayList-Cs\bin\Debug\netcoreapp5.0\ArrayList-Cs.pdb
+D:\Cs\ArrayList-Cs\obj\Debug\netcoreapp5.0\ArrayList-Cs.csprojAssemblyReference.cache
+D:\Cs\ArrayList-Cs\obj\Debug\netcoreapp5.0\ArrayList-Cs.AssemblyInfoInputs.cache
+D:\Cs\ArrayList-Cs\obj\Debug\netcoreapp5.0\ArrayList-Cs.AssemblyInfo.cs
+D:\Cs\ArrayList-Cs\obj\Debug\netcoreapp5.0\ArrayList-Cs.csproj.CoreCompileInputs.cache
+D:\Cs\ArrayList-Cs\obj\Debug\netcoreapp5.0\ArrayList-Cs.dll
+D:\Cs\ArrayList-Cs\obj\Debug\netcoreapp5.0\ArrayList-Cs.pdb
+D:\Cs\ArrayList-Cs\obj\Debug\netcoreapp5.0\ArrayList-Cs.genruntimeconfig.cache

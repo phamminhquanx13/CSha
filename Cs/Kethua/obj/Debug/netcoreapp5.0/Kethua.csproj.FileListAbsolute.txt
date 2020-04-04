@@ -1,0 +1,13 @@
+D:\Cs\Kethua\bin\Debug\netcoreapp5.0\Kethua.exe
+D:\Cs\Kethua\bin\Debug\netcoreapp5.0\Kethua.deps.json
+D:\Cs\Kethua\bin\Debug\netcoreapp5.0\Kethua.runtimeconfig.json
+D:\Cs\Kethua\bin\Debug\netcoreapp5.0\Kethua.runtimeconfig.dev.json
+D:\Cs\Kethua\bin\Debug\netcoreapp5.0\Kethua.dll
+D:\Cs\Kethua\bin\Debug\netcoreapp5.0\Kethua.pdb
+D:\Cs\Kethua\obj\Debug\netcoreapp5.0\Kethua.csprojAssemblyReference.cache
+D:\Cs\Kethua\obj\Debug\netcoreapp5.0\Kethua.AssemblyInfoInputs.cache
+D:\Cs\Kethua\obj\Debug\netcoreapp5.0\Kethua.AssemblyInfo.cs
+D:\Cs\Kethua\obj\Debug\netcoreapp5.0\Kethua.csproj.CoreCompileInputs.cache
+D:\Cs\Kethua\obj\Debug\netcoreapp5.0\Kethua.dll
+D:\Cs\Kethua\obj\Debug\netcoreapp5.0\Kethua.pdb
+D:\Cs\Kethua\obj\Debug\netcoreapp5.0\Kethua.genruntimeconfig.cache

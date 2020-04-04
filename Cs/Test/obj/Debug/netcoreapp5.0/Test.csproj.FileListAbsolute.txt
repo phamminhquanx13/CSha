@@ -1,0 +1,13 @@
+D:\Cs\Test\bin\Debug\netcoreapp5.0\Test.exe
+D:\Cs\Test\bin\Debug\netcoreapp5.0\Test.deps.json
+D:\Cs\Test\bin\Debug\netcoreapp5.0\Test.runtimeconfig.json
+D:\Cs\Test\bin\Debug\netcoreapp5.0\Test.runtimeconfig.dev.json
+D:\Cs\Test\bin\Debug\netcoreapp5.0\Test.dll
+D:\Cs\Test\bin\Debug\netcoreapp5.0\Test.pdb
+D:\Cs\Test\obj\Debug\netcoreapp5.0\Test.csprojAssemblyReference.cache
+D:\Cs\Test\obj\Debug\netcoreapp5.0\Test.AssemblyInfoInputs.cache
+D:\Cs\Test\obj\Debug\netcoreapp5.0\Test.AssemblyInfo.cs
+D:\Cs\Test\obj\Debug\netcoreapp5.0\Test.csproj.CoreCompileInputs.cache
+D:\Cs\Test\obj\Debug\netcoreapp5.0\Test.dll
+D:\Cs\Test\obj\Debug\netcoreapp5.0\Test.pdb
+D:\Cs\Test\obj\Debug\netcoreapp5.0\Test.genruntimeconfig.cache

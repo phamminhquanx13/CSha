@@ -1,0 +1,13 @@
+D:\Cs\Class\bin\Debug\netcoreapp5.0\Class.exe
+D:\Cs\Class\bin\Debug\netcoreapp5.0\Class.deps.json
+D:\Cs\Class\bin\Debug\netcoreapp5.0\Class.runtimeconfig.json
+D:\Cs\Class\bin\Debug\netcoreapp5.0\Class.runtimeconfig.dev.json
+D:\Cs\Class\bin\Debug\netcoreapp5.0\Class.dll
+D:\Cs\Class\bin\Debug\netcoreapp5.0\Class.pdb
+D:\Cs\Class\obj\Debug\netcoreapp5.0\Class.csprojAssemblyReference.cache
+D:\Cs\Class\obj\Debug\netcoreapp5.0\Class.AssemblyInfoInputs.cache
+D:\Cs\Class\obj\Debug\netcoreapp5.0\Class.AssemblyInfo.cs
+D:\Cs\Class\obj\Debug\netcoreapp5.0\Class.csproj.CoreCompileInputs.cache
+D:\Cs\Class\obj\Debug\netcoreapp5.0\Class.dll
+D:\Cs\Class\obj\Debug\netcoreapp5.0\Class.pdb
+D:\Cs\Class\obj\Debug\netcoreapp5.0\Class.genruntimeconfig.cache

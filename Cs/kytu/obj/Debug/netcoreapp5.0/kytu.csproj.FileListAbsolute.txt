@@ -1,0 +1,13 @@
+D:\Cs\kytu\bin\Debug\netcoreapp5.0\kytu.exe
+D:\Cs\kytu\bin\Debug\netcoreapp5.0\kytu.deps.json
+D:\Cs\kytu\bin\Debug\netcoreapp5.0\kytu.runtimeconfig.json
+D:\Cs\kytu\bin\Debug\netcoreapp5.0\kytu.runtimeconfig.dev.json
+D:\Cs\kytu\bin\Debug\netcoreapp5.0\kytu.dll
+D:\Cs\kytu\bin\Debug\netcoreapp5.0\kytu.pdb
+D:\Cs\kytu\obj\Debug\netcoreapp5.0\kytu.csprojAssemblyReference.cache
+D:\Cs\kytu\obj\Debug\netcoreapp5.0\kytu.AssemblyInfoInputs.cache
+D:\Cs\kytu\obj\Debug\netcoreapp5.0\kytu.AssemblyInfo.cs
+D:\Cs\kytu\obj\Debug\netcoreapp5.0\kytu.csproj.CoreCompileInputs.cache
+D:\Cs\kytu\obj\Debug\netcoreapp5.0\kytu.dll
+D:\Cs\kytu\obj\Debug\netcoreapp5.0\kytu.pdb
+D:\Cs\kytu\obj\Debug\netcoreapp5.0\kytu.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Cs\Static-EX\bin\Debug\netcoreapp5.0\Static-EX.exe
+D:\Cs\Static-EX\bin\Debug\netcoreapp5.0\Static-EX.deps.json
+D:\Cs\Static-EX\bin\Debug\netcoreapp5.0\Static-EX.runtimeconfig.json
+D:\Cs\Static-EX\bin\Debug\netcoreapp5.0\Static-EX.runtimeconfig.dev.json
+D:\Cs\Static-EX\bin\Debug\netcoreapp5.0\Static-EX.dll
+D:\Cs\Static-EX\bin\Debug\netcoreapp5.0\Static-EX.pdb
+D:\Cs\Static-EX\obj\Debug\netcoreapp5.0\Static-EX.csprojAssemblyReference.cache
+D:\Cs\Static-EX\obj\Debug\netcoreapp5.0\Static-EX.AssemblyInfoInputs.cache
+D:\Cs\Static-EX\obj\Debug\netcoreapp5.0\Static-EX.AssemblyInfo.cs
+D:\Cs\Static-EX\obj\Debug\netcoreapp5.0\Static-EX.csproj.CoreCompileInputs.cache
+D:\Cs\Static-EX\obj\Debug\netcoreapp5.0\Static-EX.dll
+D:\Cs\Static-EX\obj\Debug\netcoreapp5.0\Static-EX.pdb
+D:\Cs\Static-EX\obj\Debug\netcoreapp5.0\Static-EX.genruntimeconfig.cache

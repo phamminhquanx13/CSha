@@ -1,0 +1,13 @@
+D:\Cs\chuyendoi\bin\Debug\netcoreapp5.0\chuyendoi.exe
+D:\Cs\chuyendoi\bin\Debug\netcoreapp5.0\chuyendoi.deps.json
+D:\Cs\chuyendoi\bin\Debug\netcoreapp5.0\chuyendoi.runtimeconfig.json
+D:\Cs\chuyendoi\bin\Debug\netcoreapp5.0\chuyendoi.runtimeconfig.dev.json
+D:\Cs\chuyendoi\bin\Debug\netcoreapp5.0\chuyendoi.dll
+D:\Cs\chuyendoi\bin\Debug\netcoreapp5.0\chuyendoi.pdb
+D:\Cs\chuyendoi\obj\Debug\netcoreapp5.0\chuyendoi.csprojAssemblyReference.cache
+D:\Cs\chuyendoi\obj\Debug\netcoreapp5.0\chuyendoi.AssemblyInfoInputs.cache
+D:\Cs\chuyendoi\obj\Debug\netcoreapp5.0\chuyendoi.AssemblyInfo.cs
+D:\Cs\chuyendoi\obj\Debug\netcoreapp5.0\chuyendoi.csproj.CoreCompileInputs.cache
+D:\Cs\chuyendoi\obj\Debug\netcoreapp5.0\chuyendoi.dll
+D:\Cs\chuyendoi\obj\Debug\netcoreapp5.0\chuyendoi.pdb
+D:\Cs\chuyendoi\obj\Debug\netcoreapp5.0\chuyendoi.genruntimeconfig.cache

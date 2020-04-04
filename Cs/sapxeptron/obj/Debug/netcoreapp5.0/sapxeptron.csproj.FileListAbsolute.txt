@@ -1,0 +1,13 @@
+D:\Cs\sapxeptron\bin\Debug\netcoreapp5.0\sapxeptron.exe
+D:\Cs\sapxeptron\bin\Debug\netcoreapp5.0\sapxeptron.deps.json
+D:\Cs\sapxeptron\bin\Debug\netcoreapp5.0\sapxeptron.runtimeconfig.json
+D:\Cs\sapxeptron\bin\Debug\netcoreapp5.0\sapxeptron.runtimeconfig.dev.json
+D:\Cs\sapxeptron\bin\Debug\netcoreapp5.0\sapxeptron.dll
+D:\Cs\sapxeptron\bin\Debug\netcoreapp5.0\sapxeptron.pdb
+D:\Cs\sapxeptron\obj\Debug\netcoreapp5.0\sapxeptron.csprojAssemblyReference.cache
+D:\Cs\sapxeptron\obj\Debug\netcoreapp5.0\sapxeptron.AssemblyInfoInputs.cache
+D:\Cs\sapxeptron\obj\Debug\netcoreapp5.0\sapxeptron.AssemblyInfo.cs
+D:\Cs\sapxeptron\obj\Debug\netcoreapp5.0\sapxeptron.csproj.CoreCompileInputs.cache
+D:\Cs\sapxeptron\obj\Debug\netcoreapp5.0\sapxeptron.dll
+D:\Cs\sapxeptron\obj\Debug\netcoreapp5.0\sapxeptron.pdb
+D:\Cs\sapxeptron\obj\Debug\netcoreapp5.0\sapxeptron.genruntimeconfig.cache

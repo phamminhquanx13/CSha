@@ -1,0 +1,13 @@
+D:\Cs\Dahinh\bin\Debug\netcoreapp5.0\Dahinh.exe
+D:\Cs\Dahinh\bin\Debug\netcoreapp5.0\Dahinh.deps.json
+D:\Cs\Dahinh\bin\Debug\netcoreapp5.0\Dahinh.runtimeconfig.json
+D:\Cs\Dahinh\bin\Debug\netcoreapp5.0\Dahinh.runtimeconfig.dev.json
+D:\Cs\Dahinh\bin\Debug\netcoreapp5.0\Dahinh.dll
+D:\Cs\Dahinh\bin\Debug\netcoreapp5.0\Dahinh.pdb
+D:\Cs\Dahinh\obj\Debug\netcoreapp5.0\Dahinh.csprojAssemblyReference.cache
+D:\Cs\Dahinh\obj\Debug\netcoreapp5.0\Dahinh.AssemblyInfoInputs.cache
+D:\Cs\Dahinh\obj\Debug\netcoreapp5.0\Dahinh.AssemblyInfo.cs
+D:\Cs\Dahinh\obj\Debug\netcoreapp5.0\Dahinh.csproj.CoreCompileInputs.cache
+D:\Cs\Dahinh\obj\Debug\netcoreapp5.0\Dahinh.dll
+D:\Cs\Dahinh\obj\Debug\netcoreapp5.0\Dahinh.pdb
+D:\Cs\Dahinh\obj\Debug\netcoreapp5.0\Dahinh.genruntimeconfig.cache

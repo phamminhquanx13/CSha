@@ -1,0 +1,13 @@
+D:\Cs\LIst-EX\bin\Debug\netcoreapp5.0\LIst-EX.exe
+D:\Cs\LIst-EX\bin\Debug\netcoreapp5.0\LIst-EX.deps.json
+D:\Cs\LIst-EX\bin\Debug\netcoreapp5.0\LIst-EX.runtimeconfig.json
+D:\Cs\LIst-EX\bin\Debug\netcoreapp5.0\LIst-EX.runtimeconfig.dev.json
+D:\Cs\LIst-EX\bin\Debug\netcoreapp5.0\LIst-EX.dll
+D:\Cs\LIst-EX\bin\Debug\netcoreapp5.0\LIst-EX.pdb
+D:\Cs\LIst-EX\obj\Debug\netcoreapp5.0\LIst-EX.csprojAssemblyReference.cache
+D:\Cs\LIst-EX\obj\Debug\netcoreapp5.0\LIst-EX.AssemblyInfoInputs.cache
+D:\Cs\LIst-EX\obj\Debug\netcoreapp5.0\LIst-EX.AssemblyInfo.cs
+D:\Cs\LIst-EX\obj\Debug\netcoreapp5.0\LIst-EX.csproj.CoreCompileInputs.cache
+D:\Cs\LIst-EX\obj\Debug\netcoreapp5.0\LIst-EX.dll
+D:\Cs\LIst-EX\obj\Debug\netcoreapp5.0\LIst-EX.pdb
+D:\Cs\LIst-EX\obj\Debug\netcoreapp5.0\LIst-EX.genruntimeconfig.cache

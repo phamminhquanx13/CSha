@@ -1,0 +1,13 @@
+D:\Cs\kiemtra\bin\Debug\netcoreapp5.0\kiemtra.exe
+D:\Cs\kiemtra\bin\Debug\netcoreapp5.0\kiemtra.deps.json
+D:\Cs\kiemtra\bin\Debug\netcoreapp5.0\kiemtra.runtimeconfig.json
+D:\Cs\kiemtra\bin\Debug\netcoreapp5.0\kiemtra.runtimeconfig.dev.json
+D:\Cs\kiemtra\bin\Debug\netcoreapp5.0\kiemtra.dll
+D:\Cs\kiemtra\bin\Debug\netcoreapp5.0\kiemtra.pdb
+D:\Cs\kiemtra\obj\Debug\netcoreapp5.0\kiemtra.csprojAssemblyReference.cache
+D:\Cs\kiemtra\obj\Debug\netcoreapp5.0\kiemtra.AssemblyInfoInputs.cache
+D:\Cs\kiemtra\obj\Debug\netcoreapp5.0\kiemtra.AssemblyInfo.cs
+D:\Cs\kiemtra\obj\Debug\netcoreapp5.0\kiemtra.csproj.CoreCompileInputs.cache
+D:\Cs\kiemtra\obj\Debug\netcoreapp5.0\kiemtra.dll
+D:\Cs\kiemtra\obj\Debug\netcoreapp5.0\kiemtra.pdb
+D:\Cs\kiemtra\obj\Debug\netcoreapp5.0\kiemtra.genruntimeconfig.cache

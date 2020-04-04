@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sapxepchon/1.0.0": {
+        "runtime": {
+          "sapxepchon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sapxepchon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

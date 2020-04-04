@@ -1,0 +1,13 @@
+D:\Cs\Tuple-Ex\bin\Debug\netcoreapp5.0\Tuple-Ex.exe
+D:\Cs\Tuple-Ex\bin\Debug\netcoreapp5.0\Tuple-Ex.deps.json
+D:\Cs\Tuple-Ex\bin\Debug\netcoreapp5.0\Tuple-Ex.runtimeconfig.json
+D:\Cs\Tuple-Ex\bin\Debug\netcoreapp5.0\Tuple-Ex.runtimeconfig.dev.json
+D:\Cs\Tuple-Ex\bin\Debug\netcoreapp5.0\Tuple-Ex.dll
+D:\Cs\Tuple-Ex\bin\Debug\netcoreapp5.0\Tuple-Ex.pdb
+D:\Cs\Tuple-Ex\obj\Debug\netcoreapp5.0\Tuple-Ex.csprojAssemblyReference.cache
+D:\Cs\Tuple-Ex\obj\Debug\netcoreapp5.0\Tuple-Ex.AssemblyInfoInputs.cache
+D:\Cs\Tuple-Ex\obj\Debug\netcoreapp5.0\Tuple-Ex.AssemblyInfo.cs
+D:\Cs\Tuple-Ex\obj\Debug\netcoreapp5.0\Tuple-Ex.csproj.CoreCompileInputs.cache
+D:\Cs\Tuple-Ex\obj\Debug\netcoreapp5.0\Tuple-Ex.dll
+D:\Cs\Tuple-Ex\obj\Debug\netcoreapp5.0\Tuple-Ex.pdb
+D:\Cs\Tuple-Ex\obj\Debug\netcoreapp5.0\Tuple-Ex.genruntimeconfig.cache

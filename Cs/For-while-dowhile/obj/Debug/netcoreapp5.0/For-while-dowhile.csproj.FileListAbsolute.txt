@@ -1,0 +1,13 @@
+D:\Cs\For-while-dowhile\bin\Debug\netcoreapp5.0\For-while-dowhile.exe
+D:\Cs\For-while-dowhile\bin\Debug\netcoreapp5.0\For-while-dowhile.deps.json
+D:\Cs\For-while-dowhile\bin\Debug\netcoreapp5.0\For-while-dowhile.runtimeconfig.json
+D:\Cs\For-while-dowhile\bin\Debug\netcoreapp5.0\For-while-dowhile.runtimeconfig.dev.json
+D:\Cs\For-while-dowhile\bin\Debug\netcoreapp5.0\For-while-dowhile.dll
+D:\Cs\For-while-dowhile\bin\Debug\netcoreapp5.0\For-while-dowhile.pdb
+D:\Cs\For-while-dowhile\obj\Debug\netcoreapp5.0\For-while-dowhile.csprojAssemblyReference.cache
+D:\Cs\For-while-dowhile\obj\Debug\netcoreapp5.0\For-while-dowhile.AssemblyInfoInputs.cache
+D:\Cs\For-while-dowhile\obj\Debug\netcoreapp5.0\For-while-dowhile.AssemblyInfo.cs
+D:\Cs\For-while-dowhile\obj\Debug\netcoreapp5.0\For-while-dowhile.csproj.CoreCompileInputs.cache
+D:\Cs\For-while-dowhile\obj\Debug\netcoreapp5.0\For-while-dowhile.dll
+D:\Cs\For-while-dowhile\obj\Debug\netcoreapp5.0\For-while-dowhile.pdb
+D:\Cs\For-while-dowhile\obj\Debug\netcoreapp5.0\For-while-dowhile.genruntimeconfig.cache

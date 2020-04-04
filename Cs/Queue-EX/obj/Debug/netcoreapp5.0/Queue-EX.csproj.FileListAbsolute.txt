@@ -1,0 +1,13 @@
+D:\Cs\Queue-EX\bin\Debug\netcoreapp5.0\Queue-EX.exe
+D:\Cs\Queue-EX\bin\Debug\netcoreapp5.0\Queue-EX.deps.json
+D:\Cs\Queue-EX\bin\Debug\netcoreapp5.0\Queue-EX.runtimeconfig.json
+D:\Cs\Queue-EX\bin\Debug\netcoreapp5.0\Queue-EX.runtimeconfig.dev.json
+D:\Cs\Queue-EX\bin\Debug\netcoreapp5.0\Queue-EX.dll
+D:\Cs\Queue-EX\bin\Debug\netcoreapp5.0\Queue-EX.pdb
+D:\Cs\Queue-EX\obj\Debug\netcoreapp5.0\Queue-EX.csprojAssemblyReference.cache
+D:\Cs\Queue-EX\obj\Debug\netcoreapp5.0\Queue-EX.AssemblyInfoInputs.cache
+D:\Cs\Queue-EX\obj\Debug\netcoreapp5.0\Queue-EX.AssemblyInfo.cs
+D:\Cs\Queue-EX\obj\Debug\netcoreapp5.0\Queue-EX.csproj.CoreCompileInputs.cache
+D:\Cs\Queue-EX\obj\Debug\netcoreapp5.0\Queue-EX.dll
+D:\Cs\Queue-EX\obj\Debug\netcoreapp5.0\Queue-EX.pdb
+D:\Cs\Queue-EX\obj\Debug\netcoreapp5.0\Queue-EX.genruntimeconfig.cache

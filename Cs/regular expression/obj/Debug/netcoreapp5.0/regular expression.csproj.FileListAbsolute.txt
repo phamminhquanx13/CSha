@@ -1,0 +1,13 @@
+D:\Cs\regular expression\obj\Debug\netcoreapp5.0\regular expression.csprojAssemblyReference.cache
+D:\Cs\regular expression\obj\Debug\netcoreapp5.0\regular expression.AssemblyInfoInputs.cache
+D:\Cs\regular expression\obj\Debug\netcoreapp5.0\regular expression.AssemblyInfo.cs
+D:\Cs\regular expression\obj\Debug\netcoreapp5.0\regular expression.csproj.CoreCompileInputs.cache
+D:\Cs\regular expression\bin\Debug\netcoreapp5.0\regular expression.exe
+D:\Cs\regular expression\bin\Debug\netcoreapp5.0\regular expression.deps.json
+D:\Cs\regular expression\bin\Debug\netcoreapp5.0\regular expression.runtimeconfig.json
+D:\Cs\regular expression\bin\Debug\netcoreapp5.0\regular expression.runtimeconfig.dev.json
+D:\Cs\regular expression\bin\Debug\netcoreapp5.0\regular expression.dll
+D:\Cs\regular expression\bin\Debug\netcoreapp5.0\regular expression.pdb
+D:\Cs\regular expression\obj\Debug\netcoreapp5.0\regular expression.dll
+D:\Cs\regular expression\obj\Debug\netcoreapp5.0\regular expression.pdb
+D:\Cs\regular expression\obj\Debug\netcoreapp5.0\regular expression.genruntimeconfig.cache

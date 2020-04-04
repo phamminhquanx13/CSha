@@ -1,0 +1,13 @@
+D:\Cs\Phamvitruycap\bin\Debug\netcoreapp5.0\Phamvitruycap.exe
+D:\Cs\Phamvitruycap\bin\Debug\netcoreapp5.0\Phamvitruycap.deps.json
+D:\Cs\Phamvitruycap\bin\Debug\netcoreapp5.0\Phamvitruycap.runtimeconfig.json
+D:\Cs\Phamvitruycap\bin\Debug\netcoreapp5.0\Phamvitruycap.runtimeconfig.dev.json
+D:\Cs\Phamvitruycap\bin\Debug\netcoreapp5.0\Phamvitruycap.dll
+D:\Cs\Phamvitruycap\bin\Debug\netcoreapp5.0\Phamvitruycap.pdb
+D:\Cs\Phamvitruycap\obj\Debug\netcoreapp5.0\Phamvitruycap.csprojAssemblyReference.cache
+D:\Cs\Phamvitruycap\obj\Debug\netcoreapp5.0\Phamvitruycap.AssemblyInfoInputs.cache
+D:\Cs\Phamvitruycap\obj\Debug\netcoreapp5.0\Phamvitruycap.AssemblyInfo.cs
+D:\Cs\Phamvitruycap\obj\Debug\netcoreapp5.0\Phamvitruycap.csproj.CoreCompileInputs.cache
+D:\Cs\Phamvitruycap\obj\Debug\netcoreapp5.0\Phamvitruycap.dll
+D:\Cs\Phamvitruycap\obj\Debug\netcoreapp5.0\Phamvitruycap.pdb
+D:\Cs\Phamvitruycap\obj\Debug\netcoreapp5.0\Phamvitruycap.genruntimeconfig.cache

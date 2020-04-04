@@ -1,0 +1,13 @@
+D:\Cs\Array-Haichieu\bin\Debug\netcoreapp5.0\Array-Haichieu.exe
+D:\Cs\Array-Haichieu\bin\Debug\netcoreapp5.0\Array-Haichieu.deps.json
+D:\Cs\Array-Haichieu\bin\Debug\netcoreapp5.0\Array-Haichieu.runtimeconfig.json
+D:\Cs\Array-Haichieu\bin\Debug\netcoreapp5.0\Array-Haichieu.runtimeconfig.dev.json
+D:\Cs\Array-Haichieu\bin\Debug\netcoreapp5.0\Array-Haichieu.dll
+D:\Cs\Array-Haichieu\bin\Debug\netcoreapp5.0\Array-Haichieu.pdb
+D:\Cs\Array-Haichieu\obj\Debug\netcoreapp5.0\Array-Haichieu.csprojAssemblyReference.cache
+D:\Cs\Array-Haichieu\obj\Debug\netcoreapp5.0\Array-Haichieu.AssemblyInfoInputs.cache
+D:\Cs\Array-Haichieu\obj\Debug\netcoreapp5.0\Array-Haichieu.AssemblyInfo.cs
+D:\Cs\Array-Haichieu\obj\Debug\netcoreapp5.0\Array-Haichieu.csproj.CoreCompileInputs.cache
+D:\Cs\Array-Haichieu\obj\Debug\netcoreapp5.0\Array-Haichieu.dll
+D:\Cs\Array-Haichieu\obj\Debug\netcoreapp5.0\Array-Haichieu.pdb
+D:\Cs\Array-Haichieu\obj\Debug\netcoreapp5.0\Array-Haichieu.genruntimeconfig.cache

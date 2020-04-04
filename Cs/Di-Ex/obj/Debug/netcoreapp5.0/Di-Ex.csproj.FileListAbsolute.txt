@@ -1,0 +1,13 @@
+D:\Cs\Di-Ex\bin\Debug\netcoreapp5.0\Di-Ex.exe
+D:\Cs\Di-Ex\bin\Debug\netcoreapp5.0\Di-Ex.deps.json
+D:\Cs\Di-Ex\bin\Debug\netcoreapp5.0\Di-Ex.runtimeconfig.json
+D:\Cs\Di-Ex\bin\Debug\netcoreapp5.0\Di-Ex.runtimeconfig.dev.json
+D:\Cs\Di-Ex\bin\Debug\netcoreapp5.0\Di-Ex.dll
+D:\Cs\Di-Ex\bin\Debug\netcoreapp5.0\Di-Ex.pdb
+D:\Cs\Di-Ex\obj\Debug\netcoreapp5.0\Di-Ex.csprojAssemblyReference.cache
+D:\Cs\Di-Ex\obj\Debug\netcoreapp5.0\Di-Ex.AssemblyInfoInputs.cache
+D:\Cs\Di-Ex\obj\Debug\netcoreapp5.0\Di-Ex.AssemblyInfo.cs
+D:\Cs\Di-Ex\obj\Debug\netcoreapp5.0\Di-Ex.csproj.CoreCompileInputs.cache
+D:\Cs\Di-Ex\obj\Debug\netcoreapp5.0\Di-Ex.dll
+D:\Cs\Di-Ex\obj\Debug\netcoreapp5.0\Di-Ex.pdb
+D:\Cs\Di-Ex\obj\Debug\netcoreapp5.0\Di-Ex.genruntimeconfig.cache

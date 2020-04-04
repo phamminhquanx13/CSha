@@ -1,0 +1,13 @@
+D:\Cs\sapxepnhanh\obj\Debug\netcoreapp5.0\sapxepnhanh.csprojAssemblyReference.cache
+D:\Cs\sapxepnhanh\obj\Debug\netcoreapp5.0\sapxepnhanh.AssemblyInfoInputs.cache
+D:\Cs\sapxepnhanh\obj\Debug\netcoreapp5.0\sapxepnhanh.AssemblyInfo.cs
+D:\Cs\sapxepnhanh\obj\Debug\netcoreapp5.0\sapxepnhanh.csproj.CoreCompileInputs.cache
+D:\Cs\sapxepnhanh\bin\Debug\netcoreapp5.0\sapxepnhanh.exe
+D:\Cs\sapxepnhanh\bin\Debug\netcoreapp5.0\sapxepnhanh.deps.json
+D:\Cs\sapxepnhanh\bin\Debug\netcoreapp5.0\sapxepnhanh.runtimeconfig.json
+D:\Cs\sapxepnhanh\bin\Debug\netcoreapp5.0\sapxepnhanh.runtimeconfig.dev.json
+D:\Cs\sapxepnhanh\bin\Debug\netcoreapp5.0\sapxepnhanh.dll
+D:\Cs\sapxepnhanh\bin\Debug\netcoreapp5.0\sapxepnhanh.pdb
+D:\Cs\sapxepnhanh\obj\Debug\netcoreapp5.0\sapxepnhanh.dll
+D:\Cs\sapxepnhanh\obj\Debug\netcoreapp5.0\sapxepnhanh.pdb
+D:\Cs\sapxepnhanh\obj\Debug\netcoreapp5.0\sapxepnhanh.genruntimeconfig.cache

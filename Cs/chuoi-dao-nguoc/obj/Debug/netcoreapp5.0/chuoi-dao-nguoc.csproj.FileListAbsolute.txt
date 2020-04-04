@@ -1,0 +1,13 @@
+D:\Cs\chuoi-dao-nguoc\bin\Debug\netcoreapp5.0\chuoi-dao-nguoc.exe
+D:\Cs\chuoi-dao-nguoc\bin\Debug\netcoreapp5.0\chuoi-dao-nguoc.deps.json
+D:\Cs\chuoi-dao-nguoc\bin\Debug\netcoreapp5.0\chuoi-dao-nguoc.runtimeconfig.json
+D:\Cs\chuoi-dao-nguoc\bin\Debug\netcoreapp5.0\chuoi-dao-nguoc.runtimeconfig.dev.json
+D:\Cs\chuoi-dao-nguoc\bin\Debug\netcoreapp5.0\chuoi-dao-nguoc.dll
+D:\Cs\chuoi-dao-nguoc\bin\Debug\netcoreapp5.0\chuoi-dao-nguoc.pdb
+D:\Cs\chuoi-dao-nguoc\obj\Debug\netcoreapp5.0\chuoi-dao-nguoc.csprojAssemblyReference.cache
+D:\Cs\chuoi-dao-nguoc\obj\Debug\netcoreapp5.0\chuoi-dao-nguoc.AssemblyInfoInputs.cache
+D:\Cs\chuoi-dao-nguoc\obj\Debug\netcoreapp5.0\chuoi-dao-nguoc.AssemblyInfo.cs
+D:\Cs\chuoi-dao-nguoc\obj\Debug\netcoreapp5.0\chuoi-dao-nguoc.csproj.CoreCompileInputs.cache
+D:\Cs\chuoi-dao-nguoc\obj\Debug\netcoreapp5.0\chuoi-dao-nguoc.dll
+D:\Cs\chuoi-dao-nguoc\obj\Debug\netcoreapp5.0\chuoi-dao-nguoc.pdb
+D:\Cs\chuoi-dao-nguoc\obj\Debug\netcoreapp5.0\chuoi-dao-nguoc.genruntimeconfig.cache

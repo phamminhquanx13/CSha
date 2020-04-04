@@ -1,0 +1,13 @@
+D:\Cs\sinhnhat\bin\Debug\netcoreapp5.0\sinhnhat.exe
+D:\Cs\sinhnhat\bin\Debug\netcoreapp5.0\sinhnhat.deps.json
+D:\Cs\sinhnhat\bin\Debug\netcoreapp5.0\sinhnhat.runtimeconfig.json
+D:\Cs\sinhnhat\bin\Debug\netcoreapp5.0\sinhnhat.runtimeconfig.dev.json
+D:\Cs\sinhnhat\bin\Debug\netcoreapp5.0\sinhnhat.dll
+D:\Cs\sinhnhat\bin\Debug\netcoreapp5.0\sinhnhat.pdb
+D:\Cs\sinhnhat\obj\Debug\netcoreapp5.0\sinhnhat.csprojAssemblyReference.cache
+D:\Cs\sinhnhat\obj\Debug\netcoreapp5.0\sinhnhat.AssemblyInfoInputs.cache
+D:\Cs\sinhnhat\obj\Debug\netcoreapp5.0\sinhnhat.AssemblyInfo.cs
+D:\Cs\sinhnhat\obj\Debug\netcoreapp5.0\sinhnhat.csproj.CoreCompileInputs.cache
+D:\Cs\sinhnhat\obj\Debug\netcoreapp5.0\sinhnhat.dll
+D:\Cs\sinhnhat\obj\Debug\netcoreapp5.0\sinhnhat.pdb
+D:\Cs\sinhnhat\obj\Debug\netcoreapp5.0\sinhnhat.genruntimeconfig.cache

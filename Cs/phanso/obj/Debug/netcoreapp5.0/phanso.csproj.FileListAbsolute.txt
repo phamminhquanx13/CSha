@@ -1,0 +1,13 @@
+D:\Cs\phanso\bin\Debug\netcoreapp5.0\phanso.exe
+D:\Cs\phanso\bin\Debug\netcoreapp5.0\phanso.deps.json
+D:\Cs\phanso\bin\Debug\netcoreapp5.0\phanso.runtimeconfig.json
+D:\Cs\phanso\bin\Debug\netcoreapp5.0\phanso.runtimeconfig.dev.json
+D:\Cs\phanso\bin\Debug\netcoreapp5.0\phanso.dll
+D:\Cs\phanso\bin\Debug\netcoreapp5.0\phanso.pdb
+D:\Cs\phanso\obj\Debug\netcoreapp5.0\phanso.csprojAssemblyReference.cache
+D:\Cs\phanso\obj\Debug\netcoreapp5.0\phanso.AssemblyInfoInputs.cache
+D:\Cs\phanso\obj\Debug\netcoreapp5.0\phanso.AssemblyInfo.cs
+D:\Cs\phanso\obj\Debug\netcoreapp5.0\phanso.csproj.CoreCompileInputs.cache
+D:\Cs\phanso\obj\Debug\netcoreapp5.0\phanso.dll
+D:\Cs\phanso\obj\Debug\netcoreapp5.0\phanso.pdb
+D:\Cs\phanso\obj\Debug\netcoreapp5.0\phanso.genruntimeconfig.cache

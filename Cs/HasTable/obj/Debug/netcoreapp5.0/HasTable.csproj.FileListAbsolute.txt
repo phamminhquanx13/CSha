@@ -1,0 +1,13 @@
+D:\Cs\HasTable\bin\Debug\netcoreapp5.0\HasTable.exe
+D:\Cs\HasTable\bin\Debug\netcoreapp5.0\HasTable.deps.json
+D:\Cs\HasTable\bin\Debug\netcoreapp5.0\HasTable.runtimeconfig.json
+D:\Cs\HasTable\bin\Debug\netcoreapp5.0\HasTable.runtimeconfig.dev.json
+D:\Cs\HasTable\bin\Debug\netcoreapp5.0\HasTable.dll
+D:\Cs\HasTable\bin\Debug\netcoreapp5.0\HasTable.pdb
+D:\Cs\HasTable\obj\Debug\netcoreapp5.0\HasTable.csprojAssemblyReference.cache
+D:\Cs\HasTable\obj\Debug\netcoreapp5.0\HasTable.AssemblyInfoInputs.cache
+D:\Cs\HasTable\obj\Debug\netcoreapp5.0\HasTable.AssemblyInfo.cs
+D:\Cs\HasTable\obj\Debug\netcoreapp5.0\HasTable.csproj.CoreCompileInputs.cache
+D:\Cs\HasTable\obj\Debug\netcoreapp5.0\HasTable.dll
+D:\Cs\HasTable\obj\Debug\netcoreapp5.0\HasTable.pdb
+D:\Cs\HasTable\obj\Debug\netcoreapp5.0\HasTable.genruntimeconfig.cache

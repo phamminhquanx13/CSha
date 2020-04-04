@@ -1,0 +1,13 @@
+D:\Cs\huongdoituong\bin\Debug\netcoreapp5.0\huongdoituong.exe
+D:\Cs\huongdoituong\bin\Debug\netcoreapp5.0\huongdoituong.deps.json
+D:\Cs\huongdoituong\bin\Debug\netcoreapp5.0\huongdoituong.runtimeconfig.json
+D:\Cs\huongdoituong\bin\Debug\netcoreapp5.0\huongdoituong.runtimeconfig.dev.json
+D:\Cs\huongdoituong\bin\Debug\netcoreapp5.0\huongdoituong.dll
+D:\Cs\huongdoituong\bin\Debug\netcoreapp5.0\huongdoituong.pdb
+D:\Cs\huongdoituong\obj\Debug\netcoreapp5.0\huongdoituong.csprojAssemblyReference.cache
+D:\Cs\huongdoituong\obj\Debug\netcoreapp5.0\huongdoituong.AssemblyInfoInputs.cache
+D:\Cs\huongdoituong\obj\Debug\netcoreapp5.0\huongdoituong.AssemblyInfo.cs
+D:\Cs\huongdoituong\obj\Debug\netcoreapp5.0\huongdoituong.csproj.CoreCompileInputs.cache
+D:\Cs\huongdoituong\obj\Debug\netcoreapp5.0\huongdoituong.dll
+D:\Cs\huongdoituong\obj\Debug\netcoreapp5.0\huongdoituong.pdb
+D:\Cs\huongdoituong\obj\Debug\netcoreapp5.0\huongdoituong.genruntimeconfig.cache

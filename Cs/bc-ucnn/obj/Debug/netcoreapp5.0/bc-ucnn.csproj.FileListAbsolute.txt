@@ -1,0 +1,13 @@
+D:\Cs\bc-ucnn\bin\Debug\netcoreapp5.0\bc-ucnn.exe
+D:\Cs\bc-ucnn\bin\Debug\netcoreapp5.0\bc-ucnn.deps.json
+D:\Cs\bc-ucnn\bin\Debug\netcoreapp5.0\bc-ucnn.runtimeconfig.json
+D:\Cs\bc-ucnn\bin\Debug\netcoreapp5.0\bc-ucnn.runtimeconfig.dev.json
+D:\Cs\bc-ucnn\bin\Debug\netcoreapp5.0\bc-ucnn.dll
+D:\Cs\bc-ucnn\bin\Debug\netcoreapp5.0\bc-ucnn.pdb
+D:\Cs\bc-ucnn\obj\Debug\netcoreapp5.0\bc-ucnn.csprojAssemblyReference.cache
+D:\Cs\bc-ucnn\obj\Debug\netcoreapp5.0\bc-ucnn.AssemblyInfoInputs.cache
+D:\Cs\bc-ucnn\obj\Debug\netcoreapp5.0\bc-ucnn.AssemblyInfo.cs
+D:\Cs\bc-ucnn\obj\Debug\netcoreapp5.0\bc-ucnn.csproj.CoreCompileInputs.cache
+D:\Cs\bc-ucnn\obj\Debug\netcoreapp5.0\bc-ucnn.dll
+D:\Cs\bc-ucnn\obj\Debug\netcoreapp5.0\bc-ucnn.pdb
+D:\Cs\bc-ucnn\obj\Debug\netcoreapp5.0\bc-ucnn.genruntimeconfig.cache

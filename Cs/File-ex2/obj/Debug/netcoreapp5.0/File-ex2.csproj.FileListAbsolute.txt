@@ -1,0 +1,13 @@
+D:\Cs\File-ex2\obj\Debug\netcoreapp5.0\File-ex2.csprojAssemblyReference.cache
+D:\Cs\File-ex2\obj\Debug\netcoreapp5.0\File-ex2.AssemblyInfoInputs.cache
+D:\Cs\File-ex2\obj\Debug\netcoreapp5.0\File-ex2.AssemblyInfo.cs
+D:\Cs\File-ex2\obj\Debug\netcoreapp5.0\File-ex2.csproj.CoreCompileInputs.cache
+D:\Cs\File-ex2\bin\Debug\netcoreapp5.0\File-ex2.exe
+D:\Cs\File-ex2\bin\Debug\netcoreapp5.0\File-ex2.deps.json
+D:\Cs\File-ex2\bin\Debug\netcoreapp5.0\File-ex2.runtimeconfig.json
+D:\Cs\File-ex2\bin\Debug\netcoreapp5.0\File-ex2.runtimeconfig.dev.json
+D:\Cs\File-ex2\bin\Debug\netcoreapp5.0\File-ex2.dll
+D:\Cs\File-ex2\bin\Debug\netcoreapp5.0\File-ex2.pdb
+D:\Cs\File-ex2\obj\Debug\netcoreapp5.0\File-ex2.dll
+D:\Cs\File-ex2\obj\Debug\netcoreapp5.0\File-ex2.pdb
+D:\Cs\File-ex2\obj\Debug\netcoreapp5.0\File-ex2.genruntimeconfig.cache

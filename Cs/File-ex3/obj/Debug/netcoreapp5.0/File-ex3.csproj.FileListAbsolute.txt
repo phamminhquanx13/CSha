@@ -1,0 +1,13 @@
+D:\Cs\File-ex3\bin\Debug\netcoreapp5.0\File-ex3.exe
+D:\Cs\File-ex3\bin\Debug\netcoreapp5.0\File-ex3.deps.json
+D:\Cs\File-ex3\bin\Debug\netcoreapp5.0\File-ex3.runtimeconfig.json
+D:\Cs\File-ex3\bin\Debug\netcoreapp5.0\File-ex3.runtimeconfig.dev.json
+D:\Cs\File-ex3\bin\Debug\netcoreapp5.0\File-ex3.dll
+D:\Cs\File-ex3\bin\Debug\netcoreapp5.0\File-ex3.pdb
+D:\Cs\File-ex3\obj\Debug\netcoreapp5.0\File-ex3.csprojAssemblyReference.cache
+D:\Cs\File-ex3\obj\Debug\netcoreapp5.0\File-ex3.AssemblyInfoInputs.cache
+D:\Cs\File-ex3\obj\Debug\netcoreapp5.0\File-ex3.AssemblyInfo.cs
+D:\Cs\File-ex3\obj\Debug\netcoreapp5.0\File-ex3.csproj.CoreCompileInputs.cache
+D:\Cs\File-ex3\obj\Debug\netcoreapp5.0\File-ex3.dll
+D:\Cs\File-ex3\obj\Debug\netcoreapp5.0\File-ex3.pdb
+D:\Cs\File-ex3\obj\Debug\netcoreapp5.0\File-ex3.genruntimeconfig.cache

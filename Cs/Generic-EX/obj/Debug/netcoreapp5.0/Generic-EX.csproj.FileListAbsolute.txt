@@ -1,0 +1,13 @@
+D:\Cs\Generic-EX\bin\Debug\netcoreapp5.0\Generic-EX.exe
+D:\Cs\Generic-EX\bin\Debug\netcoreapp5.0\Generic-EX.deps.json
+D:\Cs\Generic-EX\bin\Debug\netcoreapp5.0\Generic-EX.runtimeconfig.json
+D:\Cs\Generic-EX\bin\Debug\netcoreapp5.0\Generic-EX.runtimeconfig.dev.json
+D:\Cs\Generic-EX\bin\Debug\netcoreapp5.0\Generic-EX.dll
+D:\Cs\Generic-EX\bin\Debug\netcoreapp5.0\Generic-EX.pdb
+D:\Cs\Generic-EX\obj\Debug\netcoreapp5.0\Generic-EX.csprojAssemblyReference.cache
+D:\Cs\Generic-EX\obj\Debug\netcoreapp5.0\Generic-EX.AssemblyInfoInputs.cache
+D:\Cs\Generic-EX\obj\Debug\netcoreapp5.0\Generic-EX.AssemblyInfo.cs
+D:\Cs\Generic-EX\obj\Debug\netcoreapp5.0\Generic-EX.csproj.CoreCompileInputs.cache
+D:\Cs\Generic-EX\obj\Debug\netcoreapp5.0\Generic-EX.dll
+D:\Cs\Generic-EX\obj\Debug\netcoreapp5.0\Generic-EX.pdb
+D:\Cs\Generic-EX\obj\Debug\netcoreapp5.0\Generic-EX.genruntimeconfig.cache

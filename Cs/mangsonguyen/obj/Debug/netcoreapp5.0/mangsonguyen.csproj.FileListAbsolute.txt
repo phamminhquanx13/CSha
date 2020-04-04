@@ -1,0 +1,13 @@
+D:\Cs\mangsonguyen\bin\Debug\netcoreapp5.0\mangsonguyen.exe
+D:\Cs\mangsonguyen\bin\Debug\netcoreapp5.0\mangsonguyen.deps.json
+D:\Cs\mangsonguyen\bin\Debug\netcoreapp5.0\mangsonguyen.runtimeconfig.json
+D:\Cs\mangsonguyen\bin\Debug\netcoreapp5.0\mangsonguyen.runtimeconfig.dev.json
+D:\Cs\mangsonguyen\bin\Debug\netcoreapp5.0\mangsonguyen.dll
+D:\Cs\mangsonguyen\bin\Debug\netcoreapp5.0\mangsonguyen.pdb
+D:\Cs\mangsonguyen\obj\Debug\netcoreapp5.0\mangsonguyen.csprojAssemblyReference.cache
+D:\Cs\mangsonguyen\obj\Debug\netcoreapp5.0\mangsonguyen.AssemblyInfoInputs.cache
+D:\Cs\mangsonguyen\obj\Debug\netcoreapp5.0\mangsonguyen.AssemblyInfo.cs
+D:\Cs\mangsonguyen\obj\Debug\netcoreapp5.0\mangsonguyen.csproj.CoreCompileInputs.cache
+D:\Cs\mangsonguyen\obj\Debug\netcoreapp5.0\mangsonguyen.dll
+D:\Cs\mangsonguyen\obj\Debug\netcoreapp5.0\mangsonguyen.pdb
+D:\Cs\mangsonguyen\obj\Debug\netcoreapp5.0\mangsonguyen.genruntimeconfig.cache

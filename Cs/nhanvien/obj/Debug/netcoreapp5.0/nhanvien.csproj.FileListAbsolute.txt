@@ -1,0 +1,13 @@
+D:\Cs\nhanvien\bin\Debug\netcoreapp5.0\nhanvien.exe
+D:\Cs\nhanvien\bin\Debug\netcoreapp5.0\nhanvien.deps.json
+D:\Cs\nhanvien\bin\Debug\netcoreapp5.0\nhanvien.runtimeconfig.json
+D:\Cs\nhanvien\bin\Debug\netcoreapp5.0\nhanvien.runtimeconfig.dev.json
+D:\Cs\nhanvien\bin\Debug\netcoreapp5.0\nhanvien.dll
+D:\Cs\nhanvien\bin\Debug\netcoreapp5.0\nhanvien.pdb
+D:\Cs\nhanvien\obj\Debug\netcoreapp5.0\nhanvien.csprojAssemblyReference.cache
+D:\Cs\nhanvien\obj\Debug\netcoreapp5.0\nhanvien.AssemblyInfoInputs.cache
+D:\Cs\nhanvien\obj\Debug\netcoreapp5.0\nhanvien.AssemblyInfo.cs
+D:\Cs\nhanvien\obj\Debug\netcoreapp5.0\nhanvien.csproj.CoreCompileInputs.cache
+D:\Cs\nhanvien\obj\Debug\netcoreapp5.0\nhanvien.dll
+D:\Cs\nhanvien\obj\Debug\netcoreapp5.0\nhanvien.pdb
+D:\Cs\nhanvien\obj\Debug\netcoreapp5.0\nhanvien.genruntimeconfig.cache

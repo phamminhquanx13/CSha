@@ -1,0 +1,13 @@
+D:\Cs\SortedList-Ex\bin\Debug\netcoreapp5.0\SortedList-Ex.exe
+D:\Cs\SortedList-Ex\bin\Debug\netcoreapp5.0\SortedList-Ex.deps.json
+D:\Cs\SortedList-Ex\bin\Debug\netcoreapp5.0\SortedList-Ex.runtimeconfig.json
+D:\Cs\SortedList-Ex\bin\Debug\netcoreapp5.0\SortedList-Ex.runtimeconfig.dev.json
+D:\Cs\SortedList-Ex\bin\Debug\netcoreapp5.0\SortedList-Ex.dll
+D:\Cs\SortedList-Ex\bin\Debug\netcoreapp5.0\SortedList-Ex.pdb
+D:\Cs\SortedList-Ex\obj\Debug\netcoreapp5.0\SortedList-Ex.csprojAssemblyReference.cache
+D:\Cs\SortedList-Ex\obj\Debug\netcoreapp5.0\SortedList-Ex.AssemblyInfoInputs.cache
+D:\Cs\SortedList-Ex\obj\Debug\netcoreapp5.0\SortedList-Ex.AssemblyInfo.cs
+D:\Cs\SortedList-Ex\obj\Debug\netcoreapp5.0\SortedList-Ex.csproj.CoreCompileInputs.cache
+D:\Cs\SortedList-Ex\obj\Debug\netcoreapp5.0\SortedList-Ex.dll
+D:\Cs\SortedList-Ex\obj\Debug\netcoreapp5.0\SortedList-Ex.pdb
+D:\Cs\SortedList-Ex\obj\Debug\netcoreapp5.0\SortedList-Ex.genruntimeconfig.cache

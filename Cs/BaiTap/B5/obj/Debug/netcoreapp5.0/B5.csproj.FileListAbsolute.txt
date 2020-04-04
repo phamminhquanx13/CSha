@@ -1,0 +1,4 @@
+C:\Users\MT\Documents\CShap\BaiTap\B5\obj\Debug\netcoreapp5.0\B5.csprojAssemblyReference.cache
+C:\Users\MT\Documents\CShap\BaiTap\B5\obj\Debug\netcoreapp5.0\B5.AssemblyInfoInputs.cache
+C:\Users\MT\Documents\CShap\BaiTap\B5\obj\Debug\netcoreapp5.0\B5.AssemblyInfo.cs
+C:\Users\MT\Documents\CShap\BaiTap\B5\obj\Debug\netcoreapp5.0\B5.csproj.CoreCompileInputs.cache

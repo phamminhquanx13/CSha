@@ -1,0 +1,13 @@
+C:\Users\MT\Documents\CShap\BaiTap\B14\bin\Debug\netcoreapp5.0\B14.exe
+C:\Users\MT\Documents\CShap\BaiTap\B14\bin\Debug\netcoreapp5.0\B14.deps.json
+C:\Users\MT\Documents\CShap\BaiTap\B14\bin\Debug\netcoreapp5.0\B14.runtimeconfig.json
+C:\Users\MT\Documents\CShap\BaiTap\B14\bin\Debug\netcoreapp5.0\B14.runtimeconfig.dev.json
+C:\Users\MT\Documents\CShap\BaiTap\B14\bin\Debug\netcoreapp5.0\B14.dll
+C:\Users\MT\Documents\CShap\BaiTap\B14\bin\Debug\netcoreapp5.0\B14.pdb
+C:\Users\MT\Documents\CShap\BaiTap\B14\obj\Debug\netcoreapp5.0\B14.csprojAssemblyReference.cache
+C:\Users\MT\Documents\CShap\BaiTap\B14\obj\Debug\netcoreapp5.0\B14.AssemblyInfoInputs.cache
+C:\Users\MT\Documents\CShap\BaiTap\B14\obj\Debug\netcoreapp5.0\B14.AssemblyInfo.cs
+C:\Users\MT\Documents\CShap\BaiTap\B14\obj\Debug\netcoreapp5.0\B14.csproj.CoreCompileInputs.cache
+C:\Users\MT\Documents\CShap\BaiTap\B14\obj\Debug\netcoreapp5.0\B14.dll
+C:\Users\MT\Documents\CShap\BaiTap\B14\obj\Debug\netcoreapp5.0\B14.pdb
+C:\Users\MT\Documents\CShap\BaiTap\B14\obj\Debug\netcoreapp5.0\B14.genruntimeconfig.cache

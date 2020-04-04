@@ -1,0 +1,13 @@
+D:\Cs\hocsinh\bin\Debug\netcoreapp5.0\hocsinh.exe
+D:\Cs\hocsinh\bin\Debug\netcoreapp5.0\hocsinh.deps.json
+D:\Cs\hocsinh\bin\Debug\netcoreapp5.0\hocsinh.runtimeconfig.json
+D:\Cs\hocsinh\bin\Debug\netcoreapp5.0\hocsinh.runtimeconfig.dev.json
+D:\Cs\hocsinh\bin\Debug\netcoreapp5.0\hocsinh.dll
+D:\Cs\hocsinh\bin\Debug\netcoreapp5.0\hocsinh.pdb
+D:\Cs\hocsinh\obj\Debug\netcoreapp5.0\hocsinh.csprojAssemblyReference.cache
+D:\Cs\hocsinh\obj\Debug\netcoreapp5.0\hocsinh.AssemblyInfoInputs.cache
+D:\Cs\hocsinh\obj\Debug\netcoreapp5.0\hocsinh.AssemblyInfo.cs
+D:\Cs\hocsinh\obj\Debug\netcoreapp5.0\hocsinh.csproj.CoreCompileInputs.cache
+D:\Cs\hocsinh\obj\Debug\netcoreapp5.0\hocsinh.dll
+D:\Cs\hocsinh\obj\Debug\netcoreapp5.0\hocsinh.pdb
+D:\Cs\hocsinh\obj\Debug\netcoreapp5.0\hocsinh.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Cs\Ham\bin\Debug\netcoreapp5.0\Ham.exe
+D:\Cs\Ham\bin\Debug\netcoreapp5.0\Ham.deps.json
+D:\Cs\Ham\bin\Debug\netcoreapp5.0\Ham.runtimeconfig.json
+D:\Cs\Ham\bin\Debug\netcoreapp5.0\Ham.runtimeconfig.dev.json
+D:\Cs\Ham\bin\Debug\netcoreapp5.0\Ham.dll
+D:\Cs\Ham\bin\Debug\netcoreapp5.0\Ham.pdb
+D:\Cs\Ham\obj\Debug\netcoreapp5.0\Ham.csprojAssemblyReference.cache
+D:\Cs\Ham\obj\Debug\netcoreapp5.0\Ham.AssemblyInfoInputs.cache
+D:\Cs\Ham\obj\Debug\netcoreapp5.0\Ham.AssemblyInfo.cs
+D:\Cs\Ham\obj\Debug\netcoreapp5.0\Ham.csproj.CoreCompileInputs.cache
+D:\Cs\Ham\obj\Debug\netcoreapp5.0\Ham.dll
+D:\Cs\Ham\obj\Debug\netcoreapp5.0\Ham.pdb
+D:\Cs\Ham\obj\Debug\netcoreapp5.0\Ham.genruntimeconfig.cache

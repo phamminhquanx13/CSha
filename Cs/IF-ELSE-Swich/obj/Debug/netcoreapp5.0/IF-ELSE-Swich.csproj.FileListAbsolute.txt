@@ -1,0 +1,13 @@
+D:\Cs\IF-ELSE-Swich\bin\Debug\netcoreapp5.0\IF-ELSE-Swich.exe
+D:\Cs\IF-ELSE-Swich\bin\Debug\netcoreapp5.0\IF-ELSE-Swich.deps.json
+D:\Cs\IF-ELSE-Swich\bin\Debug\netcoreapp5.0\IF-ELSE-Swich.runtimeconfig.json
+D:\Cs\IF-ELSE-Swich\bin\Debug\netcoreapp5.0\IF-ELSE-Swich.runtimeconfig.dev.json
+D:\Cs\IF-ELSE-Swich\bin\Debug\netcoreapp5.0\IF-ELSE-Swich.dll
+D:\Cs\IF-ELSE-Swich\bin\Debug\netcoreapp5.0\IF-ELSE-Swich.pdb
+D:\Cs\IF-ELSE-Swich\obj\Debug\netcoreapp5.0\IF-ELSE-Swich.csprojAssemblyReference.cache
+D:\Cs\IF-ELSE-Swich\obj\Debug\netcoreapp5.0\IF-ELSE-Swich.AssemblyInfoInputs.cache
+D:\Cs\IF-ELSE-Swich\obj\Debug\netcoreapp5.0\IF-ELSE-Swich.AssemblyInfo.cs
+D:\Cs\IF-ELSE-Swich\obj\Debug\netcoreapp5.0\IF-ELSE-Swich.csproj.CoreCompileInputs.cache
+D:\Cs\IF-ELSE-Swich\obj\Debug\netcoreapp5.0\IF-ELSE-Swich.dll
+D:\Cs\IF-ELSE-Swich\obj\Debug\netcoreapp5.0\IF-ELSE-Swich.pdb
+D:\Cs\IF-ELSE-Swich\obj\Debug\netcoreapp5.0\IF-ELSE-Swich.genruntimeconfig.cache

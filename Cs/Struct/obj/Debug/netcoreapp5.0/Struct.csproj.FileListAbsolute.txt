@@ -1,0 +1,13 @@
+D:\Cs\Struct\obj\Debug\netcoreapp5.0\Struct.csprojAssemblyReference.cache
+D:\Cs\Struct\obj\Debug\netcoreapp5.0\Struct.AssemblyInfoInputs.cache
+D:\Cs\Struct\obj\Debug\netcoreapp5.0\Struct.AssemblyInfo.cs
+D:\Cs\Struct\obj\Debug\netcoreapp5.0\Struct.csproj.CoreCompileInputs.cache
+D:\Cs\Struct\bin\Debug\netcoreapp5.0\Struct.exe
+D:\Cs\Struct\bin\Debug\netcoreapp5.0\Struct.deps.json
+D:\Cs\Struct\bin\Debug\netcoreapp5.0\Struct.runtimeconfig.json
+D:\Cs\Struct\bin\Debug\netcoreapp5.0\Struct.runtimeconfig.dev.json
+D:\Cs\Struct\bin\Debug\netcoreapp5.0\Struct.dll
+D:\Cs\Struct\bin\Debug\netcoreapp5.0\Struct.pdb
+D:\Cs\Struct\obj\Debug\netcoreapp5.0\Struct.dll
+D:\Cs\Struct\obj\Debug\netcoreapp5.0\Struct.pdb
+D:\Cs\Struct\obj\Debug\netcoreapp5.0\Struct.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Cs\Stack-Ex\obj\Debug\netcoreapp5.0\Stack-Ex.csprojAssemblyReference.cache
+D:\Cs\Stack-Ex\obj\Debug\netcoreapp5.0\Stack-Ex.AssemblyInfoInputs.cache
+D:\Cs\Stack-Ex\obj\Debug\netcoreapp5.0\Stack-Ex.AssemblyInfo.cs
+D:\Cs\Stack-Ex\obj\Debug\netcoreapp5.0\Stack-Ex.csproj.CoreCompileInputs.cache
+D:\Cs\Stack-Ex\bin\Debug\netcoreapp5.0\Stack-Ex.exe
+D:\Cs\Stack-Ex\bin\Debug\netcoreapp5.0\Stack-Ex.deps.json
+D:\Cs\Stack-Ex\bin\Debug\netcoreapp5.0\Stack-Ex.runtimeconfig.json
+D:\Cs\Stack-Ex\bin\Debug\netcoreapp5.0\Stack-Ex.runtimeconfig.dev.json
+D:\Cs\Stack-Ex\bin\Debug\netcoreapp5.0\Stack-Ex.dll
+D:\Cs\Stack-Ex\bin\Debug\netcoreapp5.0\Stack-Ex.pdb
+D:\Cs\Stack-Ex\obj\Debug\netcoreapp5.0\Stack-Ex.dll
+D:\Cs\Stack-Ex\obj\Debug\netcoreapp5.0\Stack-Ex.pdb
+D:\Cs\Stack-Ex\obj\Debug\netcoreapp5.0\Stack-Ex.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Cs\Array-one\bin\Debug\netcoreapp5.0\Array-one.exe
+D:\Cs\Array-one\bin\Debug\netcoreapp5.0\Array-one.deps.json
+D:\Cs\Array-one\bin\Debug\netcoreapp5.0\Array-one.runtimeconfig.json
+D:\Cs\Array-one\bin\Debug\netcoreapp5.0\Array-one.runtimeconfig.dev.json
+D:\Cs\Array-one\bin\Debug\netcoreapp5.0\Array-one.dll
+D:\Cs\Array-one\bin\Debug\netcoreapp5.0\Array-one.pdb
+D:\Cs\Array-one\obj\Debug\netcoreapp5.0\Array-one.csprojAssemblyReference.cache
+D:\Cs\Array-one\obj\Debug\netcoreapp5.0\Array-one.AssemblyInfoInputs.cache
+D:\Cs\Array-one\obj\Debug\netcoreapp5.0\Array-one.AssemblyInfo.cs
+D:\Cs\Array-one\obj\Debug\netcoreapp5.0\Array-one.csproj.CoreCompileInputs.cache
+D:\Cs\Array-one\obj\Debug\netcoreapp5.0\Array-one.dll
+D:\Cs\Array-one\obj\Debug\netcoreapp5.0\Array-one.pdb
+D:\Cs\Array-one\obj\Debug\netcoreapp5.0\Array-one.genruntimeconfig.cache

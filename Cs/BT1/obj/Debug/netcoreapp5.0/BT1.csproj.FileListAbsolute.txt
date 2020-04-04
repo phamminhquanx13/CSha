@@ -1,0 +1,13 @@
+D:\Cs\BT1\bin\Debug\netcoreapp5.0\BT1.exe
+D:\Cs\BT1\bin\Debug\netcoreapp5.0\BT1.deps.json
+D:\Cs\BT1\bin\Debug\netcoreapp5.0\BT1.runtimeconfig.json
+D:\Cs\BT1\bin\Debug\netcoreapp5.0\BT1.runtimeconfig.dev.json
+D:\Cs\BT1\bin\Debug\netcoreapp5.0\BT1.dll
+D:\Cs\BT1\bin\Debug\netcoreapp5.0\BT1.pdb
+D:\Cs\BT1\obj\Debug\netcoreapp5.0\BT1.csprojAssemblyReference.cache
+D:\Cs\BT1\obj\Debug\netcoreapp5.0\BT1.AssemblyInfoInputs.cache
+D:\Cs\BT1\obj\Debug\netcoreapp5.0\BT1.AssemblyInfo.cs
+D:\Cs\BT1\obj\Debug\netcoreapp5.0\BT1.csproj.CoreCompileInputs.cache
+D:\Cs\BT1\obj\Debug\netcoreapp5.0\BT1.dll
+D:\Cs\BT1\obj\Debug\netcoreapp5.0\BT1.pdb
+D:\Cs\BT1\obj\Debug\netcoreapp5.0\BT1.genruntimeconfig.cache

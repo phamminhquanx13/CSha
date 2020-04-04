@@ -1,0 +1,13 @@
+D:\Cs\tongdauvacuoin\bin\Debug\netcoreapp5.0\tongdauvacuoin.exe
+D:\Cs\tongdauvacuoin\bin\Debug\netcoreapp5.0\tongdauvacuoin.deps.json
+D:\Cs\tongdauvacuoin\bin\Debug\netcoreapp5.0\tongdauvacuoin.runtimeconfig.json
+D:\Cs\tongdauvacuoin\bin\Debug\netcoreapp5.0\tongdauvacuoin.runtimeconfig.dev.json
+D:\Cs\tongdauvacuoin\bin\Debug\netcoreapp5.0\tongdauvacuoin.dll
+D:\Cs\tongdauvacuoin\bin\Debug\netcoreapp5.0\tongdauvacuoin.pdb
+D:\Cs\tongdauvacuoin\obj\Debug\netcoreapp5.0\tongdauvacuoin.csprojAssemblyReference.cache
+D:\Cs\tongdauvacuoin\obj\Debug\netcoreapp5.0\tongdauvacuoin.AssemblyInfoInputs.cache
+D:\Cs\tongdauvacuoin\obj\Debug\netcoreapp5.0\tongdauvacuoin.AssemblyInfo.cs
+D:\Cs\tongdauvacuoin\obj\Debug\netcoreapp5.0\tongdauvacuoin.csproj.CoreCompileInputs.cache
+D:\Cs\tongdauvacuoin\obj\Debug\netcoreapp5.0\tongdauvacuoin.dll
+D:\Cs\tongdauvacuoin\obj\Debug\netcoreapp5.0\tongdauvacuoin.pdb
+D:\Cs\tongdauvacuoin\obj\Debug\netcoreapp5.0\tongdauvacuoin.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Cs\Chuoi\bin\Debug\netcoreapp5.0\Chuoi.exe
+D:\Cs\Chuoi\bin\Debug\netcoreapp5.0\Chuoi.deps.json
+D:\Cs\Chuoi\bin\Debug\netcoreapp5.0\Chuoi.runtimeconfig.json
+D:\Cs\Chuoi\bin\Debug\netcoreapp5.0\Chuoi.runtimeconfig.dev.json
+D:\Cs\Chuoi\bin\Debug\netcoreapp5.0\Chuoi.dll
+D:\Cs\Chuoi\bin\Debug\netcoreapp5.0\Chuoi.pdb
+D:\Cs\Chuoi\obj\Debug\netcoreapp5.0\Chuoi.csprojAssemblyReference.cache
+D:\Cs\Chuoi\obj\Debug\netcoreapp5.0\Chuoi.AssemblyInfoInputs.cache
+D:\Cs\Chuoi\obj\Debug\netcoreapp5.0\Chuoi.AssemblyInfo.cs
+D:\Cs\Chuoi\obj\Debug\netcoreapp5.0\Chuoi.csproj.CoreCompileInputs.cache
+D:\Cs\Chuoi\obj\Debug\netcoreapp5.0\Chuoi.dll
+D:\Cs\Chuoi\obj\Debug\netcoreapp5.0\Chuoi.pdb
+D:\Cs\Chuoi\obj\Debug\netcoreapp5.0\Chuoi.genruntimeconfig.cache

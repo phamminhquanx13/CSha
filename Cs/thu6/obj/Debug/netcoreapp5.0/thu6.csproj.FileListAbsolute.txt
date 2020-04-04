@@ -1,0 +1,13 @@
+D:\Cs\thu6\obj\Debug\netcoreapp5.0\thu6.csprojAssemblyReference.cache
+D:\Cs\thu6\obj\Debug\netcoreapp5.0\thu6.AssemblyInfoInputs.cache
+D:\Cs\thu6\obj\Debug\netcoreapp5.0\thu6.AssemblyInfo.cs
+D:\Cs\thu6\obj\Debug\netcoreapp5.0\thu6.csproj.CoreCompileInputs.cache
+D:\Cs\thu6\bin\Debug\netcoreapp5.0\thu6.exe
+D:\Cs\thu6\bin\Debug\netcoreapp5.0\thu6.deps.json
+D:\Cs\thu6\bin\Debug\netcoreapp5.0\thu6.runtimeconfig.json
+D:\Cs\thu6\bin\Debug\netcoreapp5.0\thu6.runtimeconfig.dev.json
+D:\Cs\thu6\bin\Debug\netcoreapp5.0\thu6.dll
+D:\Cs\thu6\bin\Debug\netcoreapp5.0\thu6.pdb
+D:\Cs\thu6\obj\Debug\netcoreapp5.0\thu6.dll
+D:\Cs\thu6\obj\Debug\netcoreapp5.0\thu6.pdb
+D:\Cs\thu6\obj\Debug\netcoreapp5.0\thu6.genruntimeconfig.cache
